@@ -1,1 +1,24 @@
 # Task-Scheduler-Data-Analysis
+Alibaba cloud data is taken, which compresses the information related to task, jobs, instance, worker, machine etc. these dataset are combine to extract the following insights
+- Average number of instance per worker
+- Average number of instance per machine
+- Average number of task working per machine
+- Maximum number of task working on single machine
+- How many task working on more than 0ne machine
+- How many jobs working on more than one machine
+- Average number of instance per task
+- Total number of instance per each task
+- Average number task working per machine
+- Total number of task
+- Total number of task working on cpu
+- Total number of task working on gpu type
+- Total number of task working on gpu type
+- How many machines have same specifications
+- How many task have same requirements
+- How many task start at same time on the same machine
+- How many tasks end in the same time on the same machine
+- Average execution time the task takes to run
+- Average execution time when task working in gpu
+- average execution time the task takes to run on each gpu type
+- average Gpu memory utilize by the each task
+- average CPU memory utilize by the each task
